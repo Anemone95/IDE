@@ -1,0 +1,4 @@
+# build
+```bash
+gradle publishToMavenLocal
+```
