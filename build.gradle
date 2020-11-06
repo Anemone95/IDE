@@ -2,6 +2,10 @@ plugins {
 	id 'maven-publish'
 }
 
+ext {
+	walaVersion = '1.5.4'
+}
+
 apply plugin: 'java'
 apply plugin: 'maven-publish'
 
